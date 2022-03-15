@@ -82,7 +82,7 @@ const App = () => {
             >
               <MenuItem value="worldwide">Worldwide</MenuItem>
               {countries.map((country) => (
-                <MenuItem value={country.value} key={country.name}>
+                <MenuItem value={country.value} >
                   {country.name}
                 </MenuItem>
               ))}
