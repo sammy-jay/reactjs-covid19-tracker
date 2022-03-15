@@ -11,6 +11,10 @@ body {
   justify-content: space-evenly;
   background-color: #f5f6fa;
   padding: 20px;
+  background-image: url('https://images.pexels.com/photos/3255761/pexels-photo-3255761.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .app__dropdown {
